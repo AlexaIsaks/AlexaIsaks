@@ -1,4 +1,4 @@
-<p align="center"><img alt="header" src="./assets/linkedin-header.png"></p>
+<p align="center"><img alt="header" src="./assets/cover-image.jpg"></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexa-isaks-9111701ba)
 
